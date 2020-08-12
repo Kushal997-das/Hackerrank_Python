@@ -8,3 +8,4 @@ if __name__ == '__main__':
             arr.remove(max(arr))
         temp+=1 
     print (max(arr))
+    
