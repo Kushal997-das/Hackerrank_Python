@@ -18,3 +18,5 @@ if __name__ == '__main__':
         elif x[0]=="reverse":
             #lis=lis[::-1] #This process can also be work
             lis.reverse()
+
+            
